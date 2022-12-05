@@ -6,6 +6,36 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbar{
+  background-image: url(https://us.123rf.com/450wm/guingnm/guingnm2001/guingnm200100049/139579545-delicate-purple-watercolor-background-in-pastel-colors-purple-background-with-paper-texture-sunset-s.jpg);
+  text-align: center;
+  font-size: 25px;
+  background-color: violet;
+}
+.navbar a{
+  text-decoration: none;
+  font-style: bold;
+  color: black;
+  padding-right: 10%;
+  padding-left: 12%;
+}
+.hpage{
+  text-align: center;
+  font-size: 20px;
+  background-color: slateblue;
+  color: whitesmoke;
+}
+.apage{
+  background-color: slateblue;
+  color: whitesmoke;
+}
+.cpage{
+  background-color: slateblue;
+  color: whitesmoke;
+  font-size: 20px;
+  text-align: center;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
